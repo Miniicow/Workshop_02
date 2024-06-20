@@ -1,5 +1,5 @@
 # Workshop_02 - ETL process using airflow
-Autor: [@ManuelaMayorga](https://github.com/ManuelaMayorga)
+Autor: [@Miniicow](https://github.com/Miniicow)
 
 ---
 ## Welcome
